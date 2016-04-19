@@ -2,6 +2,7 @@ name: grahamplaster
 favicon: null
 layout_spectrum: 0.5708379542920738
 typography_spectrum: 0.23324485076591372
+title: Graham Plaster
 cta:
   domain: null
   bucket: null
