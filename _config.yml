@@ -1,0 +1,28 @@
+name: grahamplaster
+favicon: null
+layout_spectrum: 0.5708379542920738
+typography_spectrum: 0.23324485076591372
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3045997270382941
+  lightness: 0.9290948768611997
+  saturation: 0.6198970258701593
+  rhythmicContrast: 0.8417573543265462
+purpose: []
